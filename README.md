@@ -68,8 +68,8 @@
 
 
 <div align="center">
-  <a href="https://github.com/MdAmiruddin/MdAmiruddin">
-  <img  src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg"
+  <a href="https://github.com/darkair/darkair">
+  <img  src="https://github.com/darkair999/darkair999/blob/main/Assets/gridsnake.svg"
        alt="snake" /></a>
 </div>
 
