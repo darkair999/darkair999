@@ -21,11 +21,17 @@
 
 
 -👋 Hi, I’m @Kevin
+<br>
 -🛡️ Security Officer & Cybersecurity Enthusiast
+<br>
 -💻 Passionate about ethical hacking, security research, and digital defense
+<br>
 -🐍 Open to collaborating on cybersecurity and Python projects
+<br>
 -🌱 Learning new technologies every day to improve my skills
+<br>
 -🔐 Interested in Web Security, OSINT, and Automation
+<br>
 -🔗 Feel free to connect with me on LinkedIn
  
  
