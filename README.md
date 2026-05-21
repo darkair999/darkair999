@@ -20,13 +20,13 @@
 
 
 
-- 👋 Hi, I’m @Kevin
-- 👀 I’m a CyberSecurity Enthusiast.
-- 💞️ I’m looking to collaborate with cybersecurity python projects.
-- 📫 How to reach me .. By my youtube [channel](https://bit.ly/3yeJeS9).
-- 📝 I write CTF [Blog](https://mdamiruddin.github.io) and articles on [Medium](https://mdamiruddin.medium.com).
-- Feel free to connect with me on Linkedin.
-- Learning new technologies everyday to become better than my past self.
+-👋 Hi, I’m @Kevin
+-🛡️ Security Officer & Cybersecurity Enthusiast
+-💻 Passionate about ethical hacking, security research, and digital defense
+-🐍 Open to collaborating on cybersecurity and Python projects
+-🌱 Learning new technologies every day to improve my skills
+-🔐 Interested in Web Security, OSINT, and Automation
+-🔗 Feel free to connect with me on LinkedIn
  
  
 <br>
