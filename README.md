@@ -67,7 +67,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/darkair/darkair">
+  <a href="https://github.com/darkair999/darkair999">
   <img  src="https://github.com/darkair999/darkair999/blob/main/Assets/gridsnake.svg"
        alt="snake" /></a>
 </div>
