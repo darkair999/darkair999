@@ -20,9 +20,8 @@
 
 
 
-- 👋 Hi, I’m @MdAmiruddin
+- 👋 Hi, I’m @Kevin
 - 👀 I’m a CyberSecurity Enthusiast.
-- 🌱 I’m currently learning with Google.
 - 💞️ I’m looking to collaborate with cybersecurity python projects.
 - 📫 How to reach me .. By my youtube [channel](https://bit.ly/3yeJeS9).
 - 📝 I write CTF [Blog](https://mdamiruddin.github.io) and articles on [Medium](https://mdamiruddin.medium.com).
