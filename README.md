@@ -66,30 +66,3 @@
 
  
 <br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Contribution </b>
-<br>
-
-
-
-<div align="center">
-  <a href="https://github.com/darkair999/darkair999">
-  <img  src="https://github.com/darkair999/darkair999/blob/main/Assets/gridsnake.svg"
-       alt="snake" /></a>
-</div>
-
-
-</a>
-</div>
-
-<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdamiruddin) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://mdamiruddin.medium.com) 
-
-<br>
-
-![](https://visitcount.itsvg.in/api?id=MdAmiruddin&icon=2&color=1)
-
-
